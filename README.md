@@ -1,3 +1,3 @@
 # TDI
 Repositorio para la ayudantia de TDI
-Agrego una linea 
+Repositorio valido para la primera participacion del curso
